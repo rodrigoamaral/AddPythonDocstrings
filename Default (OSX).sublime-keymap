@@ -1,0 +1,3 @@
+[
+  { "keys": ["super+shift+d"], "command": "add_python_docstrings" }
+]
